@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Helmeted guinea fowl","category":"Yellow"},
+{"id":2,"name":"Agile wallaby","category":"Crimson"},
+{"id":3,"name":"American alligator","category":"Teal"},
+{"id":4,"name":"Hawk-headed parrot","category":"Indigo"},
+{"id":5,"name":"White stork","category":"Khaki"},
+{"id":6,"name":"Tortoise, burmese black mountain","category":"Aquamarine"},
+{"id":7,"name":"Long-tailed skua","category":"Khaki"},
+{"id":8,"name":"Zorro, common","category":"Indigo"},
+{"id":9,"name":"Penguin, fairy","category":"Violet"},
+{"id":10,"name":"Penguin, little blue","category":"Violet"},
+{"id":11,"name":"Blue-tongued lizard","category":"Purple"},
+{"id":12,"name":"American bighorn sheep","category":"Fuscia"},
+{"id":13,"name":"Australian magpie","category":"Aquamarine"},
+{"id":14,"name":"Denham's bustard","category":"Pink"},
+{"id":15,"name":"Tortoise, burmese brown mountain","category":"Maroon"},
+{"id":16,"name":"Shrike, crimson-breasted","category":"Goldenrod"},
+{"id":17,"name":"Australian sea lion","category":"Aquamarine"},
+{"id":18,"name":"Squirrel, red","category":"Red"},
+{"id":19,"name":"Rock dove","category":"Yellow"},
+{"id":20,"name":"Squirrel, red","category":"Teal"}
+]
+}
